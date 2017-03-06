@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460633763 source:c:\users\ezgi-pc\desktop\uygulama\algoritmaodevyeni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+

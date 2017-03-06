@@ -1,0 +1,5 @@
+	HASILAT BILGISI
+1 Nolu salonun hasilati = 0
+2 Nolu salonun hasilati = 0
+3 Nolu salonun hasilati = 300
+Sinemanin toplam hasilati = 300
